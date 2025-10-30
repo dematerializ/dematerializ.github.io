@@ -15,4 +15,4 @@
 
 ## Gallery
 
-## About
+## [About](https://dematerializ.github.io/about/)
