@@ -2,7 +2,7 @@
 
 If you want to find more about the PureAlloys project, follow 
 
-### [PureAlloys](https://dematerializ.github.io/PureAlloys/)
+## [PureAlloys](https://dematerializ.github.io/PureAlloys/)
 
 ## Research
 
