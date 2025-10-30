@@ -1,7 +1,7 @@
 
 ## [PureAlloys](https://dematerializ.github.io/PureAlloys/)
 
-## Research
+## Other Research
 
 ## Publications
 
