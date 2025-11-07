@@ -430,7 +430,7 @@ ninja.data = [{
           title: 'The PureAlloys project is launched! :sparkles: :balloon:',
           description: "",
           section: "News",},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles-party-popper",
-          title: 'Our first PureAlloys paper is accepted for publication! :sparkles: :Party_Popper:',
+          title: 'Our first PureAlloys paper is accepted for publication! :sparkles: :Party Popper:',
           description: "",
           section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles-smile",
           title: 'Our second PureAlloys paper is accepted for publication! :sparkles: :smile:',
