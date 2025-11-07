@@ -478,6 +478,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/dimitraspathara", "_blank");
         },
       },{
+        id: 'social-flickr',
+        title: 'Flickr',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.flickr.com/dspathara", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
