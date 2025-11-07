@@ -2,7 +2,7 @@
 layout: page
 title: Surreal
 description: Flickr album
-#img: assets/img/7.jpg
+#img: assets/img/6_surreal.jpg
 redirect: https://www.flickr.com/photos/dspathara/albums/72157631645397750/
 importance: 3
 category: fun
