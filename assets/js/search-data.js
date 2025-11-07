@@ -484,8 +484,8 @@ ninja.data = [{
           description: "Flickr album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-ni-based-superalloy",
-          title: 'Ni-based superalloy',
+            },},{id: "projects-ni-based-superalloys",
+          title: 'Ni-based superalloys',
           description: "to be updated",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
