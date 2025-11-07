@@ -471,6 +471,11 @@ ninja.data = [{
           description: "Flickr album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-pompidou",
+          title: 'Pompidou',
+          description: "Flickr album",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-email',
         title: 'email',
