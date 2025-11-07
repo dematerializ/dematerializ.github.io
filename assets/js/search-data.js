@@ -434,8 +434,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ni-fe-permalloy",
-          title: 'Ni-Fe permalloy',
+          section: "News",},{id: "projects-10-project",
+          title: '10_project',
           description: "to be updated",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
@@ -484,8 +484,8 @@ ninja.data = [{
           description: "Flickr album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-ni-based-superalloy",
-          title: 'Ni-based superalloy',
+            },},{id: "projects-9-project",
+          title: '9_project',
           description: "to be updated",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
