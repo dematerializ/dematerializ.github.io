@@ -433,7 +433,7 @@ ninja.data = [{
           title: 'Talk at LRT 2024 Conference',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcemnent_6/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our first PureAlloys paper is accepted for publication! :sparkles:',
           description: "",
