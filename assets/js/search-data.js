@@ -429,8 +429,8 @@ ninja.data = [{
           section: "News",},{id: "news-the-purealloys-project-is-launched-sparkles",
           title: 'The PureAlloys project is launched! :sparkles: 🎈',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-talk-at-iop-joint-app-and-hepp-annual-conference-2025",
+          title: 'Talk at IOP Joint APP and HEPP Annual Conference 2025.',
           description: "",
           section: "News",},{id: "news-talk-at-calphad-2024-conference",
           title: 'Talk at CALPHAD 2024 Conference.',
@@ -448,7 +448,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ni-fe-permalloy",
           title: 'Ni-Fe permalloy',
-          description: "to be updated",
+          description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-hemt-39-s",
