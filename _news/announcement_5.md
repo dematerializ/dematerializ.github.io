@@ -18,10 +18,16 @@ To improve the strength of EFCu alloying has been investigated. The most promisi
 A systematic simulation study of manufacturing processes (additive-free electroplating and heat treatments) aiming to achieve homogenized alloy compositions is performed using DICTRA [6]. This will inform the achievable alloy compositions and an ICME approach will follow to enable rapid design of new, application-specific alloys.
 
 ## References
+
 [1] NEWS-G Collaboration "Copper electroplating for background suppression in the NEWS-G experiment", Nucl. Instrum. Meth. A, 988 (2021): 164844
+
 [2] NEWS-G Collaboration "Exploring light dark matter with the DarkSPHERE spherical proportional counter electroformed underground at the Boulby Underground Laboratory", Phys. Rev. D 108, (2023): 112006
+
 [3] Suriano et al. “Developing radiopure copper alloys for high strength low background applications”, AIP Conf Proc 1921, (2018): 080001
+
 [4] Vitale A. et al. "A preliminary investigation into the electrodeposition and synthesis of radiopure Copper–Chromium alloys for rare-event physics detector systems", Nucl. Instrum. Meth. A, 1003 (2021): 165291
+
 [5] Huang Z. et al. “Mechanism investigation on high-performance Cu-Cr-Ti alloy via integrated computational materials engineering“, Mater. Today Comms 27 (2021): 102378
+
 [6] Andersson J.-O. et al.” Thermo-Calc & DICTRA, computational tools for materials science”, Calphad 26 2 (2002): 27
 
