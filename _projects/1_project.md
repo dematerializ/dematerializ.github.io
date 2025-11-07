@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: PureAlloys
+#description: funded by UKRI EU Guarantee
 img: assets/img/12.jpg
+redirect: https://dematerializ.github.io/purealloys/
 importance: 1
 category: work
-related_publications: true
+#related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
