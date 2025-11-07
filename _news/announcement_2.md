@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The _PureAlloys_ project is launched! :sparkles: :smile:
+The _PureAlloys_ project is launched! :sparkles: :balloon:
