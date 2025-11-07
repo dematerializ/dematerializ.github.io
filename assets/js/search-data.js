@@ -423,7 +423,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-ni-fe-permalloy",
+            },},{id: "news-awarded-the-associate-fellowship-by-the-higher-education-academy-uk",
+          title: 'Awarded the Associate Fellowship by the Higher Education Academy, UK.',
+          description: "",
+          section: "News",},{id: "projects-ni-fe-permalloy",
           title: 'Ni-Fe permalloy',
           description: "to be updated",
           section: "Projects",handler: () => {
