@@ -443,7 +443,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-purealloys",
           title: 'PureAlloys',
-          description: "",
+          description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
