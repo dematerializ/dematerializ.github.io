@@ -18,6 +18,9 @@ You can also put regular text between your rows of images, even citations {% cit
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
+{% raw %}
+
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/EFCu_image_featured.png" title="purealloys_image" class="img-fluid rounded z-depth-1" %}
@@ -29,4 +32,6 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     funded by UKRI EU Guarantee
 </div>
+
+{% endraw %}
 
