@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our first _PureAlloys_ paper is accepted for publication! :sparkles: :Party Popper:
+Our first _PureAlloys_ paper is accepted for publication! :sparkles: :Party_Popper:
