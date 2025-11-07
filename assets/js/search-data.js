@@ -434,12 +434,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-10-project",
-          title: '10_project',
-          description: "to be updated",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-purealloys",
+          section: "News",},{id: "projects-purealloys",
           title: 'PureAlloys',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
