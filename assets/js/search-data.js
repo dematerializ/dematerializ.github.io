@@ -434,7 +434,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-purealloys",
+          section: "News",},{id: "projects-ni-fe-permalloy",
+          title: 'Ni-Fe permalloy',
+          description: "to be updated",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-hemt-39-s",
+          title: 'HEMT&amp;#39;s',
+          description: "to be updated",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-purealloys",
           title: 'PureAlloys',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
