@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-other-projects",
+  },{id: "nav-purealloys",
+          title: "PureAlloys",
+          description: "A website containg information about the PureAlloys project.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/purealloys/";
+          },
+        },{id: "nav-other-projects",
           title: "other projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
