@@ -429,12 +429,10 @@ ninja.data = [{
           section: "News",},{id: "news-the-purealloys-project-is-launched-sparkles",
           title: 'The PureAlloys project is launched! :sparkles: 🎈',
           description: "",
-          section: "News",},{id: "news-talk-at-iop-joint-app-and-hepp-annual-conference-2025",
-          title: 'Talk at IOP Joint APP and HEPP Annual Conference 2025',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_8/";
-            },},{id: "news-",
+          section: "News",},{id: "news-",
           title: '',
           description: "",
           section: "News",},{id: "news-talk-at-lrt-2024-conference",
