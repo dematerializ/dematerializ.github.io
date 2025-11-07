@@ -453,7 +453,7 @@ ninja.data = [{
               window.location.href = "/projects/10_project/";
             },},{id: "projects-hemt-39-s",
           title: 'HEMT&amp;#39;s',
-          description: "to be updated",
+          description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-purealloys",
