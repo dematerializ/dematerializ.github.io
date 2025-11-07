@@ -463,7 +463,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-multi-scale-modelling-msm",
           title: 'Multi-scale Modelling (MSM)',
-          description: "to be updated",
+          description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-chatty-trees",
