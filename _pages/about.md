@@ -19,10 +19,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+  #enabled: true
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  #limit: 3 # leave blank to include all the blog posts
 ---
 
 After receiving my degree in Materials Science & Engineering from the University of Ioannina, Greece, I completed the MSc at Sustainable Energy Systems in 2013, at the University of Edinburgh before starting my PhD project in the School of Metallurgy & Materials, University of Birmingham. I collaborated with Rolls-Royce plc on the industrial challenges of single crystal Ni-based superalloys, during investment casting and heat treatments. This collaboration was further strengthened in my role as Casting Development Research Fellow for the High Temperature Research Centre (HTRC). I developed physics-based models for surface reactions on metallic substrates of multi-component alloys. These improved our understanding on mechanisms such as elemental surface sublimation, physical vapour deposition and high temperature oxidation of single crystal Ni-based superalloys.
