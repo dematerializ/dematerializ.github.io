@@ -3,7 +3,7 @@ layout: page
 permalink: /purealloys/
 title: PureAlloys
 description: A website containg information about the PureAlloys project.
-related publications: true
+related_publications: true
 nav: true
 nav_order: 1
 ---
@@ -14,4 +14,12 @@ Current experiments are constrained by radioactive contamination in the detector
 
 _PureAlloys_ will address this challenge by designing high radiopurity CuCr and CuCrTi alloys with significantly higher strength. A novel multi-scale modelling framework enabling fast progress in designing application-specific alloys will be developed, opening the path for the design of new alloys in fields involving fabrication and properties enhancement where the thermodynamic and kinetic description of the system is crucial. _PureAlloys_ will push the boundaries in many fields: from fundamental science to industrial applications.
 
-funded by UKRI EU Guarantee
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    funded by UKRI EU Guarantee
+</div>
+
