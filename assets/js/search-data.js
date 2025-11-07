@@ -434,12 +434,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
-            },},{id: "news-talk-at-calphad-2024-conference",
-          title: 'Talk at CALPHAD 2024 Conference',
+            },},{id: "news-",
+          title: '',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "news-talk-at-lrt-2024-conference",
+          section: "News",},{id: "news-talk-at-lrt-2024-conference",
           title: 'Talk at LRT 2024 Conference',
           description: "",
           section: "News",handler: () => {
