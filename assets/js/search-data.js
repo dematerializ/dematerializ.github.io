@@ -453,9 +453,9 @@ ninja.data = [{
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-2-project",
+          title: '2_project',
+          description: "to be updated",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-chatty-trees",
