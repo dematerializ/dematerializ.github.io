@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: #Ni-based superalloy
 description: to be updated
 #img: assets/img/3.jpg
 importance: 2
