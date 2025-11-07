@@ -482,6 +482,13 @@ ninja.data = [{
           window.open("mailto:%64.%73%70%61%74%68%61%72%61@%62%68%61%6D.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Dimitra-Spathara/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
