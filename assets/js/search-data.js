@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-ni-based-superalloys",
           title: 'Ni-based superalloys',
-          description: "to be updated",
+          description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
