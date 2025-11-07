@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our second _PureAlloys_ paper is accepted for publication! :sparkles: :smile:
+Our second _PureAlloys_ paper is accepted for publication! :sparkles:
