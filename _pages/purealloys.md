@@ -10,10 +10,10 @@ nav_order: 1
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-#announcements:
-  #enabled: true # includes a list of news items
-  #scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  #limit: 5 # leave blank to include all the news in the `_news` folder
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 The _PureAlloys_ project will advance our understanding in the nature of the Cosmos by enabling novel, extremely radiopure, experimental searches for Dark Matter and for neutrinoless double beta decay. 
