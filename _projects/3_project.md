@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Chatty trees
+description: Flickr album
+#img: assets/img/7.jpg
+redirect: https://www.flickr.com/photos/dspathara/albums/72157684602907990/
 importance: 1
 category: fun
 ---
