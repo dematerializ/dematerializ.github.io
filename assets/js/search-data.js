@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
+            },},{id: "news-talk-at-prime-2024-conference",
+          title: 'Talk at PRiME 2024 Conference.',
+          description: "",
+          section: "News",},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our first PureAlloys paper is accepted for publication! :sparkles:',
           description: "",
           section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
