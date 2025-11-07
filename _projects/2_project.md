@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-scale Modelling (MSM)
-description: to be updated
+description: under construction
 #img: assets/img/3.jpg
 importance: 2
 category: work
