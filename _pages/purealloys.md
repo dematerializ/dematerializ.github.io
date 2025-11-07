@@ -14,6 +14,4 @@ Current experiments are constrained by radioactive contamination in the detector
 
 _PureAlloys_ will address this challenge by designing high radiopurity CuCr and CuCrTi alloys with significantly higher strength. A novel multi-scale modelling framework enabling fast progress in designing application-specific alloys will be developed, opening the path for the design of new alloys in fields involving fabrication and properties enhancement where the thermodynamic and kinetic description of the system is crucial. _PureAlloys_ will push the boundaries in many fields: from fundamental science to industrial applications.
 
-#align: right
-#image: ukri_logo.png
-#caption:funded by UKRI EU Guarantee
+funded by UKRI EU Guarantee
