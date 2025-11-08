@@ -484,8 +484,8 @@ ninja.data = [{
           description: "Flickr album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-surreal",
-          title: 'Surreal',
+            },},{id: "projects-surrealism",
+          title: 'Surrealism',
           description: "Flickr album",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
