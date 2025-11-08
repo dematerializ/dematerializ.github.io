@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk at LRT 2024 Conference.
+title: My talk at LRT 2024 Conference.
 date: 2024-10-03 16:11:00-0400
 inline: false
 related_posts: false
