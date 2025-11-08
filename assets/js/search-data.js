@@ -433,7 +433,7 @@ ninja.data = [{
           title: 'Talk at CALPHAD 2024 Conference.',
           description: "",
           section: "News",},{id: "news-talk-at-lrt-2024-conference",
-          title: 'Talk at LRT 2024 Conference',
+          title: 'Talk at LRT 2024 Conference.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
