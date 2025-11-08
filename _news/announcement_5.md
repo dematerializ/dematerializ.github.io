@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Talk at LRT 2024 Conference
+title: Talk at LRT 2024 Conference.
 date: 2024-10-03 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
 _On the manufacturing process of novel ultra-radiopure, high-strength, electroformed Cu-based alloys for rare event searches_ 
-View the slides <a href="https://indico.fais.uj.edu.pl/event/1/contributions/138/attachments/67/134/LRT2024-Dimitra-Spathara-Oct-3.pdf">here</a>
+
+You can view the slides <a href="https://indico.fais.uj.edu.pl/event/1/contributions/138/attachments/67/134/LRT2024-Dimitra-Spathara-Oct-3.pdf">here</a>
 
 ## Description
 
