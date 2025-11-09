@@ -12,6 +12,7 @@ The _PureAlloys_ project will advance our understanding in the nature of the C
 
 Current experiments are constrained by radioactive contamination in the detector manufacturing process, posing the main barrier in their physics discovery potential. Electroformed copper achieves extreme radiopurity, however it is limited by its mechanical properties: high ductility and low strength.
 
+
 <div class="container">
   <div class="row">
     <div class="col-sm-9">
@@ -32,5 +33,6 @@ Current experiments are constrained by radioactive contamination in the detector
     </div>
   </div>
 </div>
+
 
 _PureAlloys_ will address this challenge by designing high radiopurity CuCr and CuCrTi alloys with significantly higher strength. A novel multi-scale modelling framework enabling fast progress in designing application-specific alloys will be developed, opening the path for the design of new alloys in fields involving fabrication and properties enhancement where the thermodynamic and kinetic description of the system is crucial. _PureAlloys_ will push the boundaries in many fields: from fundamental science to industrial applications.
