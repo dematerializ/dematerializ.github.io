@@ -17,8 +17,6 @@ Current experiments are constrained by radioactive contamination in the detector
     <div class="col-sm-5 col-md-6">.col-sm-5 .col-md-6</div>
     % include figure.liquid path="assets/img/EFCu_image_featured.png" title="purealloys_image" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="caption">
-    Electroformed copper
   <div class="row">
     <div class="col-auto mr-auto">.col-auto .mr-auto</div>
     {% include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1" %}
