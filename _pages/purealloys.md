@@ -14,18 +14,16 @@ Current experiments are constrained by radioactive contamination in the detector
 
 
 <div class="container">
-  <div class="row justify-content-sm-center">
-    <div class="col-md-6 offset-md-3">.col-md-6 .offset-md-3</div>
+  <div class="row justify-content-center">
+    <div class="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
       % include figure.liquid path="assets/img/EFCu_image_featured.png" title="purealloys_image" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="row">
-    <div class="col-auto mr-auto">.col-auto .mr-auto</div>
-    <div class="col-auto">.col-auto</div>
+    <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
       % include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1"  
   </div>
 </div>
 <div class="caption">
-  funded by UKRI
+  funded by UKRI EU Guarantee
 </div>
 
 
