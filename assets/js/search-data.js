@@ -423,7 +423,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-organised-the-workshop-essentials-of-data-visualisation-and-infographic-design-for-other-phd-fellows",
+            },},{id: "news-my-proposal-for-advanced-training-of-postgraduate-researchers-has-been-awarded-by-the-educational-enhancement-fund",
+          title: 'My proposal for advanced training of Postgraduate researchers has been awarded by the...',
+          description: "",
+          section: "News",},{id: "news-organised-the-workshop-essentials-of-data-visualisation-and-infographic-design-for-other-phd-fellows",
           title: 'Organised the workshop Essentials of Data Visualisation and Infographic Design for other PhD...',
           description: "",
           section: "News",},{id: "news-talk-at-calphad-2018-conference",
