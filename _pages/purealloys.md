@@ -20,7 +20,6 @@ Current experiments are constrained by radioactive contamination in the detector
   </div>
   <div class="row">
     <div class="col-md-3 offset-md-3">.col-md-3 .offset-md-3</div>
-    <div class="col-md-3 offset-md-3">.col-md-3 .offset-md-3</div>
       % include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1"  
   </div>
 </div>
