@@ -423,7 +423,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-talk-at-calphad-2018-conference",
+            },},{id: "news-organised-the-workshop-essentials-of-data-visualisation-and-infographic-design-for-other-phd-fellows",
+          title: 'Organised the workshop Essentials of Data Visualisation and Infographic Design for other PhD...',
+          description: "",
+          section: "News",},{id: "news-talk-at-calphad-2018-conference",
           title: 'Talk at CALPHAD 2018 Conference.',
           description: "",
           section: "News",},{id: "news-talk-at-the-1st-annual-thermodynamics-of-materials-symposium-atoms-2018",
