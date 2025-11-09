@@ -13,10 +13,10 @@ The _PureAlloys_ project will advance our understanding in the nature of the C
 Current experiments are constrained by radioactive contamination in the detector manufacturing process, posing the main barrier in their physics discovery potential. Electroformed copper achieves extreme radiopurity, however it is limited by its mechanical properties: high ductility and low strength.
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8">.col-sm-8</div>
+  <div class="col-8">col-8</div>
     {% include figure.liquid path="assets/img/EFCu_image_featured.png" title="purealloys_image" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-6 col-sm-2">.col-6 .col-sm-2</div>
+  <div class="col-2">col-2</div>
     {% include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1" %}  
   </div>
 </div>
