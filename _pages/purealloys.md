@@ -6,6 +6,14 @@ description: A website containg information about the PureAlloys project.
 related_publications: true
 nav: true
 nav_order: 1
+
+profile:
+  - align: right
+    image: ukri_log-.png
+    content: purealloys.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>funded by UKRI EU Guarantee</p>
 ---
 
 The _PureAlloys_ project will advance our understanding in the nature of the Cosmos by enabling novel, extremely radiopure, experimental searches for Dark Matter and for neutrinoless double beta decay. 
@@ -18,10 +26,7 @@ _PureAlloys_ will address this challenge by designing high radiopurity CuCr and
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/EFCu_image_featured.png" title="purealloys_image" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/ukri_logo.png" title="ukri_logo" class="img-fluid rounded z-depth-1" %}
-  </div>
 </div>
 <div class="caption">
-    funded by UKRI EU Guarantee
+    Electroformed copper
 </div>
