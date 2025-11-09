@@ -444,7 +444,7 @@ ninja.data = [{
           title: 'Talk at IOP Joint APP and HEPP Annual Conference 2025.',
           description: "",
           section: "News",},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
-          title: 'Our first PureAlloys paper is accepted for publication! :sparkles:',
+          title: 'Our first PureAlloys paper is accepted for publication! :sparkles: 🎉',
           description: "",
           section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our second PureAlloys paper is accepted for publication! :sparkles:',
