@@ -33,7 +33,7 @@ In the first publication of _PureAlloys_ {% cite SPATHARA2026170970 %}, simulati
 
 Many thanks for the time and support I received from the Birmingham Particle Physics group, namely Kostas Nikolopoulos and Patrick Knights and the world-expert in developing radiopure materials Eric W Hoppe. Our discussions had a massive impact in shaping this endeavour!
 
-The most recent publication {% cite spathara2025materials %}, demonstrates the suggested methodology for designing the Cr/Cu,  Cr/Ti and Cr-Ti/Cu layer configurations to achieve homogenized alloys of Cu-0.5Cr and Cu-0.5-0.038Ti (in wt%) composition using electroformation. It also discusses the challenges of manufacturing radiopure CuCr and CuCrTi alloys. 
+Our contribution {% cite spathara2025materials %} to the special collection _The Direct Detection of Dark Matter in the Underground Laboratory: Past, Present, and Future Prospects, for WIMPs and Non-WIMP Candidates_, demonstrates the suggested methodology for designing the Cr/Cu,  Cr/Ti and Cr-Ti/Cu layer configurations to achieve homogenized alloys of Cu-0.5Cr and Cu-0.5-0.038Ti (in wt%) composition using electroformation. It also discusses the challenges of manufacturing radiopure CuCr and CuCrTi alloys. 
 
 > The impact of such alloys to the direct Dark Matter detection and other rare event searches to answer fundamental research questions is demonstrated by two case studies concerning the DarkSPHERE project and the future experiment XLZD.
 > This work leads the way to the next steps of _PureAlloys_.
