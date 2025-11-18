@@ -6,6 +6,15 @@ description: Publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 3
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WR8SYBZP76"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WR8SYBZP76');
+</script>
 
 <!-- _pages/publications.md -->
 
