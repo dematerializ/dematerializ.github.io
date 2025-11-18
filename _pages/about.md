@@ -34,8 +34,10 @@ announcements:
   gtag('config', 'G-WR8SYBZP76');
 </script>
 
-> Research and education, as a dual vessel, I care deeply about, and I enjoy communicating my work and experience with different audiences.
+> Research and education, a dual vessel, I care deeply about, and I enjoy communicating my work and experience with different audiences.
+> 
 > Creativity is the main drive of everything that I do and can be found in any project I am working for, from conception and implementation to delivery and reflection.
+> 
 > Teamwork and the growth this can lead to the group and each member is also one of the processes I enjoy, and would gladly take up leadership in topics I am interrested in, equally with following others and make contributions towards a common endeavor. 
 
 > I am keen in combining materials modelling tools with experimental techniques to develop our understanding on high-performance materials and / devices. I am interested in the optimisation of manufacturing processes and the design and development of new alloys with direct applications in a range of fields spanning from aerospace and automotive to energy storage technologies and other electronic devices.
