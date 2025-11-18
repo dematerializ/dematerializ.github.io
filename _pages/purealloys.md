@@ -8,6 +8,16 @@ nav: true
 nav_order: 1
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WR8SYBZP76"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WR8SYBZP76');
+</script>
+
 The _PureAlloys_ project will advance our understanding in the nature of the Cosmos by enabling novel, extremely radiopure, experimental searches for Dark Matter and for neutrinoless double beta decay. 
 
 Current experiments are constrained by radioactive contamination in the detector manufacturing process, posing the main barrier in their physics discovery potential. Electroformed copper achieves extreme radiopurity, however it is limited by its mechanical properties: high ductility and low strength.
