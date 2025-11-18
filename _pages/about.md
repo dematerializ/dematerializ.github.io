@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.hep.ph.bham.ac.uk/newsite/DimitraSpathara.html'>Affiliations</a>. Particle Physics Group, School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
+subtitle: <a href='http://www.hep.ph.bham.ac.uk/newsite/DimitraSpathara.html'>Affiliation</a>. Particle Physics Group, School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
