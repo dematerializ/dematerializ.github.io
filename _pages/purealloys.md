@@ -28,12 +28,12 @@ _PureAlloys_ will address this challenge by designing high radiopurity CuCr and
 
 In the first publication of _PureAlloys_ {% cite SPATHARA2026170970 %}, simulations using computational thermodynamics are compared with experimental data for the first time. A materials-design approach is proposed for optimising the fabrication and thermal processing stages of the manufacturing processes.
 
-> A study to predict mechanical enhancement with temporal predictions of solid solution and precipitation strengthening during solution heat treatment and aging is also included.
+> A study to predict mechanical enhancement with temporal predictions of both solid solution strengthening and precipitation strengthening during  aging is also included.
 > A data-driven methodology to design novel radiopure materials for detector systems is proposed. 
 
-Many thanks for the time and support I received from the Birmingham Particle Physics group, namely Kostas Nikolopoulos and Patrick Knights and the world-expert in developing radiopure materials Eric W Hoppe. Our discussions had a massive impact in shaping this endeavour!
+Many thanks for the time and support I received from my collaborators Kostas Nikolopoulos and Patrick Knights in the Birmingham Particle Physics group, and the world-expert in developing radiopure materials Eric W Hoppe. Our discussions had a massive impact in shaping this endeavour!
 
-Our contribution {% cite spathara2025materials %} to the special collection _The Direct Detection of Dark Matter in the Underground Laboratory: Past, Present, and Future Prospects, for WIMPs and Non-WIMP Candidates_, demonstrates the suggested methodology for designing the Cr/Cu,  Cr/Ti and Cr-Ti/Cu layer configurations to achieve homogenized alloys of Cu-0.5Cr and Cu-0.5-0.038Ti (in wt%) composition using electroformation. It also discusses the challenges of manufacturing radiopure CuCr and CuCrTi alloys. 
+Our contribution {% cite spathara2025materials %} to the special collection _The Direct Detection of Dark Matter in the Underground Laboratory: Past, Present, and Future Prospects, for WIMPs and Non-WIMP Candidates_, demonstrates the suggested methodology for designing the Cr/Cu, Cr/Ti and Cr-Ti/Cu layer configurations to achieve homogenized alloys of Cu-0.5Cr and Cu-0.5-0.038Ti (in wt%) composition using electroformation. It also discusses the challenges of manufacturing radiopure CuCr and CuCrTi alloys. 
 
 > The impact of such alloys to the direct Dark Matter detection and other rare event searches to answer fundamental research questions is demonstrated by two case studies concerning the DarkSPHERE project and the future experiment XLZD.
 > This work leads the way to the next steps of _PureAlloys_.
