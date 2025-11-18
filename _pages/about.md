@@ -36,7 +36,7 @@ announcements:
 
 > Research and education, a dual vessel, I care deeply about, and I enjoy communicating my work and experience with different audiences.
 > 
-> Creativity is the main drive of everything that I do and can be found in any project I am working for, from conception and implementation to delivery and reflection.
+> Creativity is the main drive of everything I do, from conception and implementation to delivery and reflection.
 > 
 > Teamwork and the growth this can lead to the group and each member is also one of the processes I enjoy, and would gladly take up leadership in topics I am interrested in, equally with following others and make contributions towards a common endeavor. 
 
