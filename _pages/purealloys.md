@@ -25,3 +25,7 @@ Current experiments are constrained by radioactive contamination in the detector
 </div>
 
 _PureAlloys_ will address this challenge by designing high radiopurity CuCr and CuCrTi alloys with significantly higher strength. A novel multi-scale modelling framework enabling fast progress in designing application-specific alloys will be developed, opening the path for the design of new alloys in fields involving fabrication and properties enhancement where the thermodynamic and kinetic description of the system is crucial. _PureAlloys_ will push the boundaries in many fields: from fundamental science to industrial applications.
+
+In the first publication of _PureAlloys_ {% SPATHARA2026170970 %}, simulations using computational thermodynamics are compared with experimental data for the first time and a data-driven methodology to design novel radiopure materials for detector systems is proposed.
+
+Many thanks for the time and support I received from the Birmingham Particle Physics group, namely Kostas Nikolopoulos and Patrick Knights and the world-expert in developing radiopure materials Eric W Hoppe. Our discussions had a massive impact in shaping this endeavour!
