@@ -36,7 +36,7 @@ Current experiments are constrained by radioactive contamination in the detector
 
 _PureAlloys_ will address this challenge by designing high radiopurity CuCr and CuCrTi alloys with significantly higher strength. A novel multi-scale modelling framework enabling fast progress in designing application-specific alloys will be developed, opening the path for the design of new alloys in fields involving fabrication and properties enhancement where the thermodynamic and kinetic description of the system is crucial. _PureAlloys_ will push the boundaries in many fields: from fundamental science to industrial applications.
 
-In the first publication of _PureAlloys_ {% cite SPATHARA2026170970 %}, simulations using computational thermodynamics are compared with experimental data for the first time. A materials-design approach is proposed for optimising the the manufacturing stages of both fabrication and thermal processing.
+In the first publication of _PureAlloys_ {% cite SPATHARA2026170970 %}, simulations using computational thermodynamics are compared with experimental data for the first time. A materials-design approach is proposed for optimising the manufacturing stages of both fabrication and thermal processing.
 
 > A study to predict mechanical enhancement with temporal predictions of both solid solution strengthening and precipitation strengthening during  aging is also included.
 > A data-driven methodology to design novel radiopure materials for detector systems is proposed. 
