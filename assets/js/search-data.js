@@ -497,7 +497,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our second PureAlloys paper is accepted for publication! :sparkles:',
           description: "",
-          section: "News",},{id: "projects-ni-fe-permalloy",
+          section: "News",},{id: "news-my-talk-at-the-dark-matter-uk-dec25-meeting",
+          title: 'My talk at the Dark Matter UK Dec25 Meeting',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_26/";
+            },},{id: "projects-ni-fe-permalloy",
           title: 'Ni-Fe permalloy',
           description: "under construction",
           section: "Projects",handler: () => {
