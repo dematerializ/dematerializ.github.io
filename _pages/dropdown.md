@@ -10,6 +10,9 @@ children:
   - title: divider
   - title: publications
     permalink: /publications/
+  - title: other interests
+    permalink: /other-interests/
+  - title: divider
   #- title: divider
   #- title: blog
     #permalink: /blog/
