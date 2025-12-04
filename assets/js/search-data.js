@@ -536,11 +536,6 @@ ninja.data = [{
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-chatty-trees",
-          title: 'Chatty trees',
-          description: "Flickr album",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-fireworks",
           title: 'Fireworks',
           description: "Flickr album",
