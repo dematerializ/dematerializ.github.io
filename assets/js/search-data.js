@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/purealloys/";
           },
-        },{id: "nav-other-interests",
-          title: "other interests",
-          description: "A growing collection of my other interests.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/other-interests/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of my projects.",
