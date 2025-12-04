@@ -20,7 +20,7 @@ horizontal: false
 
 <!-- pages/other.md -->
 <div class="others">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_other_categories and page.display_categories %}
   <!-- Display categorized others -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -33,14 +33,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_others %}
-      {% include others_horizontal.liquid %}
+      {% include other_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_others %}
-      {% include others.liquid %}
+      {% include other.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -59,14 +59,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_others %}
-      {% include others_horizontal.liquid %}
+      {% include other_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_others %}
-      {% include others.liquid %}
+      {% include other.liquid %}
     {% endfor %}
   </div>
   {% endif %}
