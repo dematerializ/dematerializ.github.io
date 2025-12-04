@@ -20,7 +20,7 @@ horizontal: false
 
 <!-- pages/others.md -->
 <div class="others">
-{% if site.enable_others_categories and page.display_categories %}
+{% if site.enable_other_categories and page.display_categories %}
   <!-- Display categorized others -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -28,18 +28,18 @@ horizontal: false
   </a>
   {% assign categorized_others = site.others | where: "category", category %}
   {% assign sorted_others = categorized_others | sort: "importance" %}
-  <!-- Generate cards for each others -->
+  <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for others in sorted_others %}
+    {% for other in sorted_others %}
       {% include others_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for others in sorted_others %}
+    {% for other in sorted_others %}
       {% include others.liquid %}
     {% endfor %}
   </div>
@@ -52,20 +52,20 @@ horizontal: false
 
 {% assign sorted_others = site.others | sort: "importance" %}
 
-  <!-- Generate cards for each others -->
+  <!-- Generate cards for each project -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for others in sorted_others %}
+    {% for other in sorted_others %}
       {% include others_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for others in sorted_others %}
+    {% for other in sorted_others %}
       {% include others.liquid %}
     {% endfor %}
   </div>
