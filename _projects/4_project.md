@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ni-Fe permalloy
+title: Ni-Fe permalloy as inductors for MEMS
 description: under construction
 img: assets/img/Ni-Fe-sh.png
 importance: 4
