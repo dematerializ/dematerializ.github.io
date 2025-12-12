@@ -18,30 +18,29 @@ horizontal: false
   gtag('config', 'G-WR8SYBZP76');
 </script>
 
-
-<!-- pages/others.md -->
-<div class="others">
+<!-- pages/projects.md -->
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized others -->
+  <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_others = site.others | where: "category", category %}
-  {% assign sorted_others = categorized_others | sort: "importance" %}
+  {% assign categorized_projects = site.albums | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_others %}
-      {% include others_horizontal.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_others %}
-      {% include others.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -49,9 +48,9 @@ horizontal: false
 
 {% else %}
 
-<!-- Display others without categories -->
+<!-- Display projects without categories -->
 
-{% assign sorted_others = site.others | sort: "importance" %}
+{% assign sorted_projects = site.albums | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -59,15 +58,15 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_others %}
-      {% include others_horizontal.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_others %}
-      {% include others.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
