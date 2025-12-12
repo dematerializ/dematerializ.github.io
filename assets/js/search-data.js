@@ -509,8 +509,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_26/";
-            },},{id: "projects-purealloys-ultra-radiopure-for-direct-dark-matter-detection",
-          title: 'PureAlloys ultra-radiopure for direct Dark Matter detection',
+            },},{id: "projects-purealloys-ultra-radiopure-direct-dark-matter-detectors",
+          title: 'PureAlloys ultra-radiopure (direct Dark Matter detectors)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
