@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HEMT's transistors (high-frequency applications)
+title: HEMT's (high-frequency transistors)
 description: UoIoannina, UoGlasgow (under construction)
 #img: assets/img/3.jpg
 importance: 5
