@@ -14,8 +14,8 @@ children:
     permalink: /albums/
   - title: divider
   #- title: divider
-  #- title: blog
-    #permalink: /blog/
+  - title: blog
+    permalink: /blog/
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WR8SYBZP76"></script>
