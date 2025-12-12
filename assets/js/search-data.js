@@ -432,7 +432,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "albums-fireworks",
+          title: 'Fireworks',
+          description: "Flickr album",
+          section: "Albums",handler: () => {
+              window.location.href = "/albums/album_1/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
