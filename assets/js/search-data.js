@@ -524,13 +524,13 @@ ninja.data = [{
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-ni-fe-permalloy-inductors-for-mems",
-          title: 'Ni-Fe permalloy inductors for MEMS',
+            },},{id: "projects-ni-fe-permalloy-inductors-mems",
+          title: 'Ni-Fe permalloy inductors (MEMS)',
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-hemt-39-s-transistors-for-high-frequency-applications",
-          title: 'HEMT&amp;#39;s transistors for high-frequency applications',
+            },},{id: "projects-hemt-39-s-transistors-high-frequency-applications",
+          title: 'HEMT&amp;#39;s transistors (high-frequency applications)',
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
