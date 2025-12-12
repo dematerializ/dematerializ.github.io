@@ -447,6 +447,11 @@ ninja.data = [{
           description: "Flickr album",
           section: "Albums",handler: () => {
               window.location.href = "/albums/album_3/";
+            },},{id: "albums-pompidou",
+          title: 'Pompidou',
+          description: "Flickr album",
+          section: "Albums",handler: () => {
+              window.location.href = "/albums/albums_4/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
