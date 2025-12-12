@@ -515,7 +515,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-multi-scale-modelling-msm-battery-manufacture",
-          title: 'Multi-scale Modelling - MSM (Battery Manufacture)',
+          title: 'Multi-scale Modelling - MSM (battery manufacture)',
           description: "funded by Faraday Institution (under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
