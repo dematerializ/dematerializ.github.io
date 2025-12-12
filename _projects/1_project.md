@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PureAlloys ultra-radiopure for detecting Dark Matter/ neutrinos
+title: PureAlloys Cu-based, ultra-radiopure for detecting Dark Matter / neutrinos
 description: funded by UKRI EU Guarantee
 img: assets/img/EFCu_image_featured.png
 redirect: https://dematerializ.github.io/purealloys/
