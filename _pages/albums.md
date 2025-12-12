@@ -1,11 +1,11 @@
 ---
 layout: page
-title: other interests
-permalink: /other-interests/
+title: albums
+permalink: /albums/
 description: A growing collection of my other interests.
 nav: true
 nav_order: 3
-#display_categories: [work, fun]
+display_categories: [education, photography]
 horizontal: false
 ---
 <!-- Google tag (gtag.js) -->
