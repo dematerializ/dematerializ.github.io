@@ -529,8 +529,8 @@ ninja.data = [{
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-hemt-39-s",
-          title: 'HEMT&amp;#39;s',
+            },},{id: "projects-hemt-39-s-transistors-for-high-frequency-applications",
+          title: 'HEMT&amp;#39;s transistors for high-frequency applications',
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
