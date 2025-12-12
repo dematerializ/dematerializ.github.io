@@ -551,8 +551,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_26/";
-            },},{id: "projects-purealloys-cu-based-ultra-radiopure-for-detecting-dark-matter-neutrinos",
-          title: 'PureAlloys Cu-based, ultra-radiopure for detecting Dark Matter / neutrinos',
+            },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
+          title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
