@@ -524,8 +524,8 @@ ninja.data = [{
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-ni-fe-permalloy-as-inductors-for-mems",
-          title: 'Ni-Fe permalloy as inductors for MEMS',
+            },},{id: "projects-ni-fe-permalloy-used-as-inductors-for-mems",
+          title: 'Ni-Fe permalloy used as inductors for MEMS',
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
