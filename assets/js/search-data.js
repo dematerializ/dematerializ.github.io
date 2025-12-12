@@ -533,7 +533,7 @@ ninja.data = [{
           title: 'Ni-based superalloys for aerospace',
           description: "under construction",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
