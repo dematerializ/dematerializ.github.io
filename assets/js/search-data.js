@@ -514,8 +514,8 @@ ninja.data = [{
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-multi-scale-modelling-msm-for-battery-manufacture",
-          title: 'Multi-scale Modelling (MSM) for Battery Manufacture',
+            },},{id: "projects-multi-scale-modelling-msm-battery-manufacture",
+          title: 'Multi-scale Modelling (MSM) (Battery Manufacture)',
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
