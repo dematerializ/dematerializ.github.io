@@ -10,8 +10,8 @@ children:
   - title: divider
   - title: publications
     permalink: /publications/
-  - title: other interests
-    permalink: /other-interests/
+  - title: albums
+    permalink: /albums/
   - title: divider
   #- title: divider
   #- title: blog
