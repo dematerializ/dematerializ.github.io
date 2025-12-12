@@ -509,11 +509,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_26/";
-            },},{id: "projects-ni-fe-permalloy",
-          title: 'Ni-Fe permalloy',
-          description: "under construction",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
             },},{id: "projects-purealloys",
           title: 'PureAlloys',
           description: "funded by UKRI EU Guarantee",
@@ -529,6 +524,11 @@ ninja.data = [{
           description: "under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-ni-fe-permalloy",
+          title: 'Ni-Fe permalloy',
+          description: "under construction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-hemt-39-s",
           title: 'HEMT&amp;#39;s',
           description: "under construction",
