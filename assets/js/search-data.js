@@ -526,7 +526,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-ni-fe-permalloy-inductors-mems",
           title: 'Ni-Fe permalloy inductors (MEMS)',
-          description: "under construction",
+          description: "Scottish Microelectronics Centre, University of Edinburgh (under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-hemt-39-s-transistors-high-frequency-applications",
