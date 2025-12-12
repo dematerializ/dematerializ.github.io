@@ -521,7 +521,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-ni-based-superalloys-aerospace",
           title: 'Ni-based superalloys (aerospace)',
-          description: "Rolls-Royce plc, HTRC, University of Birmingham (under construction)",
+          description: "Rolls-Royce plc, HTRC, UoBirmingham (under construction)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-ni-fe-permalloy-inductors-mems",
