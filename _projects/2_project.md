@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-scale Modelling (MSM) for Battery Manufacture
+title: Multi-scale Modelling (MSM) (Battery Manufacture)
 description: under construction
 #img: assets/img/3.jpg
 importance: 2
