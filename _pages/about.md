@@ -46,6 +46,6 @@ After receiving my degree in Materials Science & Engineering from the University
 
 In the context of the Multi-scale Modelling (MSM) project I focused on the thermodynamic, kinetic and physical parameters for the development of physics-based multi-scale battery models. Following a period with the Energy Materials Group in the University of Birmingham, as a member of Faraday Institution, I joined the Particle Physics group. 
 
-I have been awarded a UKRI Fellowship (Horizon Europe Guarantee), initially awarded as a Marie Skłodowska-Curie Global Post-doctoral Fellowship. The _PureAlloys_ project aims at the development of new ultra-pure, high-strength, electroformed CuCr alloys for the next generation detectors for rare event searches (e.g. Dark Matter).
+I have been awarded a UKRI Fellowship (Horizon Europe Guarantee), initially awarded as a Marie Skłodowska-Curie Global Post-doctoral Fellowship. The _PureAlloys_ project aims at the development of new ultra-pure, high-strength, electroformed Cu-based alloys for the next generation detectors for rare event searches (e.g. Dark Matter).
 
 Within the _PureAlloys_ project, I am developing my expertise on electrolyte-electrode (metallic) interfaces, in collaboration with Particle Physicists and Chemists. This directly links to my interest on the evolution of materials thermodynamic, kinetic and electrochemical properties during processes that involve interfaces.
