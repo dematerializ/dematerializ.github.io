@@ -178,7 +178,8 @@ pagination:
 
 </div>
 
-  <div class="col-sm-3">
+  #<div class="col-sm-3">
+  <div class="col-sm mt-3 mt-md-0">
     <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
