@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HEMT's
+title: HEMT's transistors for high-frequency applications
 description: under construction
 #img: assets/img/3.jpg
 importance: 5
