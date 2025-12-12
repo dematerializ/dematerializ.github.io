@@ -2,7 +2,7 @@
 layout: page
 title: albums
 permalink: /albums/
-description: A growing collection of my other interests.
+description: A growing collection of my projects in photography.
 nav: true
 nav_order: 3
 display_categories: [photography]
