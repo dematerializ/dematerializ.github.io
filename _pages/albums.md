@@ -5,7 +5,7 @@ permalink: /albums/
 description: A growing collection of my other interests.
 nav: true
 nav_order: 3
-display_categories: [education, photography]
+display_categories: [photography]
 horizontal: false
 ---
 <!-- Google tag (gtag.js) -->
