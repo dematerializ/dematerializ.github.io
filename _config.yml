@@ -153,8 +153,10 @@ collections:
     output: true
   projects:
     output: true
-  other:
+    permalink: /projects/:path/
+  albums:
     output: true
+    permalink: /albums/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
