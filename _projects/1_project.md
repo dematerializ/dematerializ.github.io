@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PureAlloys ultra-radiopure for direct Dark Matter detection
+title: PureAlloys ultra-radiopure (direct Dark Matter detectors)
 description: funded by UKRI EU Guarantee
 img: assets/img/EFCu_image_featured.png
 redirect: https://dematerializ.github.io/purealloys/
