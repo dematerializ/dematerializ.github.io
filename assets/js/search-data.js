@@ -391,17 +391,6 @@ ninja.data = [{
             window.open("https://medium.com/@dematerializ/the-revolutionary-invention-of-jet-engines-in-todays-and-future-travelling-41e1efc350eb?source=rss-88599aa32533------2", "_blank");
           
         },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
-          
-        },
       },{id: "albums-fireworks",
           title: 'Fireworks',
           description: "Flickr album",
