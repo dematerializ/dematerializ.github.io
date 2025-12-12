@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ni-based superalloys
+title: Ni-based superalloys for aerospace
 description: under construction
 #img: assets/img/3.jpg
 importance: 3
