@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My talk at Dark Matter UK Dec'25 Meeting
+title: Talk at Dark Matter UK Dec'25 Meeting
 date: 2025-12-01 16:11:00-0400
 inline: false
 related_posts: false
