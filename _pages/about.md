@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Affiliation</a>. Particle Physics Group, School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
+subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Affiliation</a>. Particle Physics Group, School of Physics and Astronomy (previously School of Metallurgy & Materials), University of Birmingham. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -34,7 +34,7 @@ announcements:
   gtag('config', 'G-WR8SYBZP76');
 </script>
 
-Creativity, teamwork, and leadership are my main drives to pursue my interests in materials science and engineering. Creativity is the main motivation for everything I do, from conception and implementation to delivery and reflection. I highly value teamwork and the growth it can lead to the group and each member, which is also one of the processes I deeply enjoy. In topics I am passionate about, I would gladly take up leadership, equally with following others and make contributions towards a common endeavor. I care deeply about research and education. This dual vessel -if finely tuned- leads to remarkable results in performance, personal and professional growth and more creativity! Finally, communicating my work and experience with different audiences can become a transformative experience, honning my communication skills, public speaking and continuously developing as an active educator.
+Creativity, teamwork, and leadership are my main drives to pursue my interests in materials science and engineering. Creativity is the main motivation for everything I do, from conception and implementation to delivery and reflection. I highly value teamwork and the growth it can lead to the group and each member, which is also one of the processes I deeply enjoy. In topics I am passionate about, I would gladly take up leadership, equally with following others and make contributions towards a common endeavour. I care deeply about research and education. This dual vessel -if finely tuned- leads to remarkable results in performance, personal and professional growth and more creativity! Finally, communicating my work and experience with different audiences can become a transformative experience, honning my communication skills, public speaking and continuously developing as an active educator.
 
 > My work combines materials modelling tools with experimental techniques to develop our understanding on high-performance materials and / devices. I am interested in the optimisation of manufacturing processes and the design and development of new alloys with direct applications in a range of fields spanning from aerospace and automotive to energy storage technologies and other electronic devices or to answer fundamental research questions, such as the origin of Dark Matter.
 
