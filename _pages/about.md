@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Affiliation</a>. Particle Physics Group, School of Physics and Astronomy (previously School of Metallurgy & Materials), University of Birmingham. #Address. Contacts. Motto. Etc.
+subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Affiliation</a>. School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
