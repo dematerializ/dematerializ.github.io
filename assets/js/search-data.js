@@ -224,6 +224,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_26/";
+            },},{id: "news-my-christmas-lecture-for-year-7-students",
+          title: 'My _Christmas Lecture_ for Year 7 students',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_27/";
             },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
