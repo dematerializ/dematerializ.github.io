@@ -224,8 +224,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_26/";
-            },},{id: "news-my-christmas-lecture-for-year-7-students",
-          title: 'My _Christmas Lecture_ for Year 7 students',
+            },},{id: "news-christmas-lecture-for-year-7-students",
+          title: 'Christmas Lecture for Year 7 students',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_27/";
