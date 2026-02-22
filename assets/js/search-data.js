@@ -229,7 +229,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_27/";
-            },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
+            },},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-materials-chemistry-group-meeting-iom3-uk",
+          title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
+          description: "",
+          section: "News",},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
