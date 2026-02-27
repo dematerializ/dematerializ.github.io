@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Seminar at the Institut of Experimental Physics, University of Hamburg, Germany.
+title: Seminar at the Institute of Experimental Physics, University of Hamburg, Germany.
 date: 2026-02-12 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
-_Designing the next generation of materials for rare-event searches: high-strength, ultra-pure Cu-based alloys_
+## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure Cu-based alloys_
 
 The slides can be found <a href="https://indico.global/event/17158/contributions/145626/attachments/66964/130459/Seminar-Feb2026-DimitraSpathara.pdf">here</a>.
 
