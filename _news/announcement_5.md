@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-_On the manufacturing process of novel ultra-radiopure, high-strength, electroformed Cu-based alloys for rare event searches_ 
+## _On the manufacturing process of novel ultra-radiopure, high-strength, electroformed Cu-based alloys for rare event searches_ 
 
 You can view the slides <a href="https://indico.fais.uj.edu.pl/event/1/contributions/138/attachments/67/134/LRT2024-Dimitra-Spathara-Oct-3.pdf">here</a>
 
