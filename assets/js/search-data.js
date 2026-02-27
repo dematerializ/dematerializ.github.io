@@ -232,8 +232,8 @@ ninja.data = [{
             },},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-materials-chemistry-group-meeting-iom3-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
-          section: "News",},{id: "news-seminar-at-the-institut-of-experimental-physics-university-of-hamburg-germany",
-          title: 'Seminar at the Institut of Experimental Physics, University of Hamburg, Germany.',
+          section: "News",},{id: "news-seminar-at-the-institute-of-experimental-physics-university-of-hamburg-germany",
+          title: 'Seminar at the Institute of Experimental Physics, University of Hamburg, Germany.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_29/";
