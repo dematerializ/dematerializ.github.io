@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-_Designing ultra-radiopure, high-strength, electroformed CuCr and CuCrTi alloys, for rare event searches_
+## _Designing ultra-radiopure, high-strength, electroformed CuCr and CuCrTi alloys, for rare event searches_
 
 The slides can be found <a href="https://indico.global/event/15936/contributions/140185/attachments/64984/125842/DMUK-Dec25-DimitraSpathara.pdf">here</a>.
 
