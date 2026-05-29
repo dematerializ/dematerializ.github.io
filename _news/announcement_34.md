@@ -1,18 +1,21 @@
 ---
 layout: post
 title: Poster presentation in IDM 2026, Spain.
-date: 2026-06-01 15:00:00-0400
+date: 2026-06-03 15:00:00-0400
 inline: false
 related_posts: false
 ---
-## Poster presentation in IDM 2026, Spain <a href="https://indico.capa.unizar.es/event/40/contributions/815/>here</a>.
+## Poster presentation in IDM 2026, Spain.
+
 ## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure copper alloys_
 
-A video can be found <a href="https://indico.capa.unizar.es/event/40/contributions/815/attachments/597/1079/video-IDM-2026-Dimitra-Spathara.mp4">here</a>.
+An abstract can be found <a href='https://indico.capa.unizar.es/event/40/contributions/815'>here</a>.
 
-## Description
+A video can be found <a href='https://indico.capa.unizar.es/event/40/contributions/815/attachments/597/1079/video-IDM-2026-Dimitra-Spathara.mp4'>here</a>.
 
-This work contributes to the development of radiopure copper-alloys, stronger than EFCu, but within radiopurity limits, required for the next-generation detectors for rare-event searches.
+## Presentation
+
+This work contributes to the development of radiopure copper-alloys, stronger than electroformed copper (EFCu), but within radiopurity limits, required for the next-generation detectors for rare-event searches.
 The manufacturing process includes electroforming and electroplating similar to the techniques utilised for EFCu. 
 
 This is followed by thermal processing aiming at:
