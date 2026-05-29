@@ -5,7 +5,7 @@ date: 2026-06-01 15:00:00-0400
 inline: false
 related_posts: false
 ---
-## <a href="https://indico.capa.unizar.es/event/40/contributions/815/>Poster presentation in IDM 2026, Spain</a>.
+## Poster presentation in IDM 2026, Spain <a href="https://indico.capa.unizar.es/event/40/contributions/815/>here</a>.
 ## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure copper alloys_
 
 A video can be found <a href="https://indico.capa.unizar.es/event/40/contributions/815/attachments/597/1079/video-IDM-2026-Dimitra-Spathara.mp4">here</a>.
