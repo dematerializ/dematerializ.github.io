@@ -33,7 +33,7 @@ During the aging stage, as Cr atoms will leave these sites to form spherical pre
 
 We demonstrated that previous attempts to synthesise radiopure CuCr alloys, aiming at 0.5 wt% in Cr, were carried out at temperatures lower than the single-phase. Also, according to our simulations, the chosen layer configuration would only lead to maximum 0.2 wt% Cr content in the alloy.
 This means that the volume fraction of the bcc phase would be even lower. Additionally, aging was carried out at 500°C for 12 hours. 
-Our simulations indicate that even for higher volume fractions, mechanical strength will be halved after less than 2 hours, with maximum enhancement in less than 1 hour.
+Our simulations indicate that even for higher volume fractions, mechanical strength will be halved after less than 2 hours, and maximum enhancement could be achieved in less than 1 hour.
 
 We propose a methodology for optimising the manufacturing parameters (i.e. layer/configuration for electroplating and time - temperature for thermal processing) using computational thermodynamics to manufacture CuCr and CuCrTi alloys with 0.5 wt% Cr content and the desired composition and mechanical strength.
 
