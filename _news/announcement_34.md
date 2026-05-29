@@ -30,7 +30,8 @@ Mechanical enhancement of copper fcc matrix is achieved at 1st stage by lattice 
 During aging, as Cr atoms will leave these sites to form spherical precipitates of the bcc phase, the solid solution strengthening achieved previously will decrease, but precipitates of the other phase will act as barriers for any disslocations movement. Maximum yield strength can be achieved when these precipitates form at the smallest radius and are uniformly distributed.
 
 We demonstrated {% cite SPATHARA2026170970 %} that previous attempts to synthesise radiopure CuCr alloys, aiming at 0.5 wt% in Cr, were carried out at temperatures lower than the single-phase. Also, according to our simulations, the chosen layer configuration would only lead to maximum 0.2 wt% Cr content in the alloy.
-This means that the volume fraction of the bcc phase would be even lower. Additionally, aging was carried out at 500C for 12 hours. 
+This means that the volume fraction of the bcc phase would be even lower. Additionally, aging was carried out at 500°<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/7f863191-2e5d-4bde-be70-7d47db885d86" />
+C for 12 hours. 
 Our simulations indicate that even for higher volume fractions, mechanical strength will be halved after less than 2 hours, with maximum enhancement in less than 1 hour.
 
 We propose a methodology for optimising the manufacturing parameters (i.e. layer/configuration for electroplating and time - temperature for thermal processing) using computational thermodynamics to manufacture CuCr and CuCrTi alloys with the desired composition and mechanical strength {% cite spathara2025materials %}.
