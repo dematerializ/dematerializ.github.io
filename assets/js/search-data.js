@@ -250,7 +250,7 @@ ninja.data = [{
           title: 'Poster presentation in IDM 2026, Spain.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_34/";
+              window.location.href = "/news/idm2026-poster-presentation/";
             },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
