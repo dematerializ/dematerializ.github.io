@@ -246,8 +246,8 @@ ninja.data = [{
           section: "News",},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-particle-physics-and-particle-astrophysics-group-university-of-sheffield-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
-          section: "News",},{id: "news-poster-presentation-idm-2026-spain",
-          title: 'Poster presentation, IDM 2026, Spain.',
+          section: "News",},{id: "news-poster-presentation-in-idm-2026-spain",
+          title: 'Poster presentation in IDM 2026, Spain.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_33/";
