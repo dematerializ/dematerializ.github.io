@@ -19,7 +19,7 @@ This is followed by thermal processing aiming at:
 1. homogenisation of alloy composition throughout the volume, and
 2. aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
 
-The modelling methods to optimise thermal processing parameters are based on computational thermodynamics {% cite SPATHARA2026170970 %} and {% cite spathara2025materials %}.
+The modelling methods to optimise thermal processing parameters are based on computational thermodynamics {% cite SPATHARA2026170970 % and % cite spathara2025materials %}.
 Thermodynamic behaviour of each species and their in-between interactions will indicate the single phase at which we can expect homogenisation; i.e. the temperatures for composition range we aim at the 1st stage of thermal processing.
 The thermodynamic and kinetic description of the system will inform the temperature - time relation to achieve maximum mechanical strength during the 2nd stage of thermal processing.
 
