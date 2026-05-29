@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Poster presentation in IDM 2026, Spain.
-date: 2026-05-29 15:00:00-0400
+date: 2026-06-01 15:00:00-0400
 inline: false
 related_posts: false
 ---
-## Poster presentation in IDM 2026, Spain.
+## <a href="https://indico.capa.unizar.es/event/40/contributions/815/>Poster presentation in IDM 2026, Spain</a>.
 ## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure copper alloys_
 
 A video can be found <a href="https://indico.capa.unizar.es/event/40/contributions/815/attachments/597/1079/video-IDM-2026-Dimitra-Spathara.mp4">here</a>.
@@ -19,7 +19,7 @@ This is followed by thermal processing aiming at:
 1. homogenisation of alloy composition throughout the volume, and
 2. aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
 
-The modelling methods to optimise thermal processing parameters are based on computational thermodynamics {% cite SPATHARA2026170970 % and % cite spathara2025materials %}.
+The modelling methods to optimise thermal processing parameters are based on computational thermodynamics.
 Thermodynamic behaviour of each species and their in-between interactions will indicate the single phase at which we can expect homogenisation; i.e. the temperatures for composition range we aim at the 1st stage of thermal processing.
 The thermodynamic and kinetic description of the system will inform the temperature - time relation to achieve maximum mechanical strength during the 2nd stage of thermal processing.
 
