@@ -21,8 +21,9 @@ This work contributes to the development of radiopure copper-alloys, stronger th
 The manufacturing process includes electroforming and electroplating similar to the techniques utilised for EFCu. 
 This is followed by thermal processing in two stages, aiming at:
 
-1. homogenisation of alloy composition throughout the volume, and
-2. aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
+> homogenisation of alloy composition throughout the volume, and
+>
+> aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
 
 The modelling methods to optimise thermal processing parameters are based on computational thermodynamics.
 
