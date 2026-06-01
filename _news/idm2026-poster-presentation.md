@@ -41,3 +41,15 @@ We propose a methodology for optimising the manufacturing parameters (i.e. layer
 >The impact of our work has been explored in two different case studies. Here's the one for DarkSPHERE project. Assuming we are able to manufacture a _Spherical Proportional Counter_ made out of CuCr alloy with double the strength of EFCu, this would allow operation at 10 bar, leading to half the time required for data collection with a particular gas mixture, maximising the physics potential.
 
 This is the first time a materials design approach using computational thermodynamics is proposed for manufacturing ultra-pure, high-strength alloys for detectors, used for rare-event searches.
+
+## References
+
+[1] NEWS-G Collaboration "Copper electroplating for background suppression in the NEWS-G experiment", Nucl. Instrum. Meth. A, 988 (2021): 164844
+
+[2] NEWS-G Collaboration "Exploring light dark matter with the DarkSPHERE spherical proportional counter electroformed underground at the Boulby Underground Laboratory", Phys. Rev. D 108, (2023): 112006
+
+[3] Vitale A. et al. "A preliminary investigation into the electrodeposition and synthesis of radiopure Copper–Chromium alloys for rare-event physics detector systems", Nucl. Instrum. Meth. A, 1003 (2021): 165291
+
+[4] Spathara, D., “Design of high-strength, radiopure copper–chromium alloys for rare-event searches assisted by computational thermodynamics”, Nuclear Inst. and Methods in Physics Research, A, 1082 (2026):170970
+
+[5] Spathara, D., et al. “Materials design for the synthesis of high strength radiopure copper alloys for rare event detection”, Commun Phys 8 (2025):464
