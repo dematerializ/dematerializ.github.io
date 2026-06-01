@@ -8,7 +8,7 @@ related_posts: false
 
 ## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure copper alloys_
 
-### Poster presentation in IDM 2026, Spain.
+#### Poster presentation in IDM 2026, Spain.
 
 An abstract can be found <a href='https://indico.capa.unizar.es/event/40/contributions/815'>here</a>.
 
@@ -42,7 +42,7 @@ We propose a methodology for optimising the manufacturing parameters (i.e. layer
 
 This is the first time a materials design approach using computational thermodynamics is proposed for manufacturing ultra-pure, high-strength alloys for detectors, used for rare-event searches.
 
-## References
+### References
 
 [1] NEWS-G Collaboration "Copper electroplating for background suppression in the NEWS-G experiment", Nucl. Instrum. Meth. A, 988 (2021): 164844
 
