@@ -21,16 +21,15 @@ This work contributes to the development of radiopure copper-alloys, stronger th
 The manufacturing process includes electroforming and electroplating similar to the techniques utilised for EFCu. 
 This is followed by thermal processing in two stages, aiming at:
 
-> homogenisation of alloy composition throughout the volume, and
->
-> aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
+1. homogenisation of alloy composition throughout the volume, and
+
+2. aging to grow secondary phase precipitates for enhancing mechanical properties, like hardness and strength.
 
 The modelling methods to optimise thermal processing parameters are based on computational thermodynamics.
-
-Thermodynamic behaviour of each species and their in-between interactions will indicate the single phase at which we can expect homogenisation; i.e. the temperatures for composition range we aim at the 1st stage of thermal processing.
+>Thermodynamic behaviour of each species and their in-between interactions will indicate the single phase at which we can expect homogenisation; i.e. the temperatures for composition range we aim at the 1st stage of thermal processing.
 The thermodynamic and kinetic description of the system will inform the temperature - time relation to achieve maximum mechanical strength during the 2nd stage of thermal processing.
 
-Mechanical enhancement of Cu fcc matrix is achieved at the first stage by lattice distortion, when some sites of the fcc crystal structure are occupied by Cr atoms of different radius.
+>Mechanical enhancement of Cu fcc matrix is achieved at the first stage by lattice distortion, when some sites of the fcc crystal structure are occupied by Cr atoms of different radius.
 During the aging stage, as Cr atoms will leave these sites to form spherical precipitates of the bcc phase, the solid solution strengthening achieved previously will decrease, but precipitates of the other phase will act as barriers for any disslocations movement. Maximum yield strength can be achieved when these precipitates form at the smallest radius and are uniformly dispersed in the fcc matrix.
 
 We demonstrated that previous attempts to synthesise radiopure CuCr alloys, aiming at 0.5 wt% in Cr, were carried out at temperatures lower than the single-phase. Also, according to our simulations, the chosen layer configuration would only lead to maximum 0.2 wt% Cr content in the alloy.
