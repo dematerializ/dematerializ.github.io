@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poster presentation in IDM 2026, Spain.
-date: 2026-06-03 15:00:00-0400
+date: 2026-06-01 10:00:00-0400
 inline: false
 related_posts: false
 ---
