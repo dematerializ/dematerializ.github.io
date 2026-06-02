@@ -8,8 +8,6 @@ related_posts: false
 
 ## _Designing the next generation of materials for rare-event searches: high-strength, ultra-pure copper alloys_
 
-#### Poster presentation in IDM 2026, Spain.
-
 An abstract can be found <a href='https://indico.capa.unizar.es/event/40/contributions/815'>here</a>.
 
 A video can be found <a href='https://indico.capa.unizar.es/event/40/contributions/815/attachments/597/1079/video-IDM-2026-Dimitra-Spathara.mp4'>here</a>.
