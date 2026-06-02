@@ -48,4 +48,4 @@ Many thanks for the time and support I received from my collaborators Kostas Nik
 Our contribution {% cite spathara2025materials %} to the special collection _The Direct Detection of Dark Matter in the Underground Laboratory: Past, Present, and Future Prospects, for WIMPs and Non-WIMP Candidates_, demonstrates the suggested methodology for designing the Cr/Cu, Cr/Ti and Cr-Ti/Cu layer configurations to achieve homogenized alloys of Cu-0.5Cr and Cu-0.5-0.038Ti (in wt%) composition using electroformation. It also discusses the challenges of manufacturing radiopure CuCr and CuCrTi alloys. 
 
 > The impact of such alloys to the direct Dark Matter detection and other rare event searches to answer fundamental research questions is demonstrated by two case studies concerning the DarkSPHERE project and the future experiment XLZD.
-> This work leads the way to the next steps of _PureAlloys_.
+> This work paves the way for the next steps of _PureAlloys_.
