@@ -48,6 +48,6 @@ This is the first time a materials design approach using computational thermodyn
 
 [3] Vitale A. et al. "A preliminary investigation into the electrodeposition and synthesis of radiopure Copper–Chromium alloys for rare-event physics detector systems", Nucl. Instrum. Meth. A, 1003 (2021): 165291
 
-[4] Spathara, D., “Design of high-strength, radiopure copper–chromium alloys for rare-event searches assisted by computational thermodynamics”, Nuclear Inst. and Methods in Physics Research, A, 1082 (2026):170970
+[4] Spathara, D., “Design of high-strength, radiopure copper–chromium alloys for rare-event searches assisted by computational thermodynamics”, Nuclear Inst. and Methods in Physics Research, A, 1082 (2026): 170970
 
-[5] Spathara, D., et al. “Materials design for the synthesis of high strength radiopure copper alloys for rare event detection”, Commun Phys 8 (2025):464
+[5] Spathara, D., et al. “Materials design for the synthesis of high strength radiopure copper alloys for rare event detection”, Commun Phys 8 (2025): 464
