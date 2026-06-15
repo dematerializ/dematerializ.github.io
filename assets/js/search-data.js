@@ -190,9 +190,6 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-a-public-engagement-seed-fund-by-public-and-cultural-engagement-team-university-of-birmingham-sparkles",
           title: 'Awarded a Public Engagement Seed Fund, by Public and Cultural Engagement Team, University...',
           description: "",
-          section: "News",},{id: "news-talk-at-calphad-2026-conference",
-          title: 'Talk at CALPHAD 2026 Conference.',
-          description: "",
           section: "News",},{id: "news-talk-at-calphad-2023-conference",
           title: 'Talk at CALPHAD 2023 Conference.',
           description: "",
@@ -251,7 +248,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/idm2026-poster-presentation/";
-            },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
+            },},{id: "news-talk-at-calphad-2026-conference",
+          title: 'Talk at CALPHAD 2026 Conference.',
+          description: "",
+          section: "News",},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
