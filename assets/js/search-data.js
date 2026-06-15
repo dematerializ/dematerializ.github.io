@@ -239,7 +239,7 @@ ninja.data = [{
           title: 'Seminar at the Institute of Experimental Physics, University of Hamburg, Germany.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_29/";
+              window.location.href = "/news/seminar-Hamburg26/";
             },},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-particle-physics-group-university-of-birmingham-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
