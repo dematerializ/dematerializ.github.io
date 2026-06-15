@@ -226,7 +226,7 @@ ninja.data = [{
           title: 'Talk at Dark Matter UK Dec&amp;#39;25 Meeting',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_26/";
+              window.location.href = "/news/dm-uk-dec25/";
             },},{id: "news-christmas-lecture-for-year-7-students",
           title: 'Christmas Lecture for Year 7 students',
           description: "",
