@@ -209,7 +209,7 @@ ninja.data = [{
           title: 'Talk at LRT 2024 Conference.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/lrt2024/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-talk-at-prime-2024-conference",
           title: 'Talk at PRiME 2024 Conference.',
           description: "",
