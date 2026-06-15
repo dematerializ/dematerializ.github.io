@@ -231,7 +231,7 @@ ninja.data = [{
           title: 'Christmas Lecture for Year 7 students',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_27/";
+              window.location.href = "/news/christmas-lecture-2025/";
             },},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-materials-chemistry-group-meeting-iom3-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
