@@ -72,7 +72,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-between-materials-modelling-and-the-public-you-will-meet-hermes",
+            },{id: "post-metallurgy-in-birmingham-from-power-systems-to-dark-matter",
+        
+          title: 'Metallurgy in Birmingham: from power systems to dark matter <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@dematerializ/metallurgy-in-birmingham-from-power-systems-to-dark-matter-2b5ac67827c3?source=rss-88599aa32533------2", "_blank");
+          
+        },
+      },{id: "post-metallurgy-in-birmingham-the-industrial-revolution-and-its-aura",
+        
+          title: 'Metallurgy in Birmingham: the Industrial Revolution and its aura <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@dematerializ/metallurgy-in-birmingham-the-industrial-revolution-and-its-aura-39ce29dacbd3?source=rss-88599aa32533------2", "_blank");
+          
+        },
+      },{id: "post-between-materials-modelling-and-the-public-you-will-meet-hermes",
         
           title: 'Between materials modelling and the public, you will meet Hermes <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -243,7 +265,12 @@ ninja.data = [{
           section: "News",},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-particle-physics-and-particle-astrophysics-group-university-of-sheffield-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
-          section: "News",},{id: "news-poster-presentation-in-idm-2026-spain",
+          section: "News",},{id: "news-talk-for-pint-of-science-2026-birmingham-uk",
+          title: 'Talk for Pint of Science 2026, Birmingham, UK.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/pint-of-science-2026-uk/";
+            },},{id: "news-poster-presentation-in-idm-2026-spain",
           title: 'Poster presentation in IDM 2026, Spain.',
           description: "",
           section: "News",handler: () => {
