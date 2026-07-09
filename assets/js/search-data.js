@@ -270,8 +270,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/pint-of-science-2026-uk/";
-            },},{id: "news-poster-presentation-at-idm-2026-spain",
-          title: 'Poster presentation at IDM 2026, Spain.',
+            },},{id: "news-poster-at-idm-2026",
+          title: 'Poster at IDM 2026.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/idm2026-poster-presentation/";
