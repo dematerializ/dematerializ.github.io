@@ -278,12 +278,10 @@ ninja.data = [{
             },},{id: "news-talk-at-calphad-2026-conference",
           title: 'Talk at CALPHAD 2026 Conference.',
           description: "",
-          section: "News",},{id: "news-poster-presentation-in-synqretism-2026-greece",
-          title: 'Poster presentation in SynQretism 2026, Greece.',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/syncretism2026/";
-            },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
+          section: "News",},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
