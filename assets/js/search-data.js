@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-metallurgy-in-birmingham-from-power-systems-to-dark-matter",
+            },{id: "post-metallurgy-in-birmingham-2-from-power-systems-to-dark-matter",
         
-          title: 'Metallurgy in Birmingham: from power systems to dark matter <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Metallurgy in Birmingham 2: from power systems to dark matter <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -278,10 +278,12 @@ ninja.data = [{
             },},{id: "news-talk-at-calphad-2026-conference",
           title: 'Talk at CALPHAD 2026 Conference.',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-poster-presentation-in-synqretism-2026-greece",
+          title: 'Poster presentation in SynQretism 2026, Greece.',
           description: "",
-          section: "News",},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
+          section: "News",handler: () => {
+              window.location.href = "/news/syncretism2026/";
+            },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
           section: "Projects",handler: () => {
