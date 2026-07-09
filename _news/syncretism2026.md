@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster presentation at SynQretism 2026.
+Poster presentation at SynCretism 2026.
