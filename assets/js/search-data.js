@@ -265,8 +265,8 @@ ninja.data = [{
           section: "News",},{id: "news-seminar-on-the-designing-the-next-generation-of-materials-for-rare-event-searches-high-strength-ultra-pure-cu-based-alloys-at-the-particle-physics-and-particle-astrophysics-group-university-of-sheffield-uk",
           title: 'Seminar on the Designing the next generation of materials for rare-event searches: high-strength,...',
           description: "",
-          section: "News",},{id: "news-talk-for-pint-of-science-2026-birmingham-uk",
-          title: 'Talk for Pint of Science 2026, Birmingham, UK.',
+          section: "News",},{id: "news-talk-for-pint-of-science-2026",
+          title: 'Talk for Pint of Science 2026.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/pint-of-science-2026-uk/";
@@ -278,8 +278,8 @@ ninja.data = [{
             },},{id: "news-talk-at-calphad-2026-conference",
           title: 'Talk at CALPHAD 2026 Conference.',
           description: "",
-          section: "News",},{id: "news-poster-presentation-at-synqretism-2026",
-          title: 'Poster presentation at SynQretism 2026.',
+          section: "News",},{id: "news-poster-presentation-at-syncretism-2026",
+          title: 'Poster presentation at SynCretism 2026.',
           description: "",
           section: "News",},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
