@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk at LRT 2026
+title: Talk at LRT Conference 2026
 date: 2025-09-24 16:11:00-0400
 inline: false
 related_posts: false
