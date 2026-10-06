@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster at LRT Conference 2026.
+title: Poster at LRT 2026 Conference.
 date: 2026-09-22 10:00:00-0400
 inline: false
 related_posts: false
