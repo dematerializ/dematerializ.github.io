@@ -294,8 +294,8 @@ ninja.data = [{
             },},{id: "news-the-purecualloys-project-is-launched",
           title: 'The PureCuAlloys project is launched! 🎈',
           description: "",
-          section: "News",},{id: "news-poster-at-lrt-2026",
-          title: 'Poster at LRT 2026.',
+          section: "News",},{id: "news-poster-at-lrt-conference-2026",
+          title: 'Poster at LRT Conference 2026.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lrt2026-poster-presentation/";
