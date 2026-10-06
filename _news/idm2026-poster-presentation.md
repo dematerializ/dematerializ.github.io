@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster at IDM Conference 2026.
+title: Poster at IDM 2026 Conference.
 date: 2026-06-01 10:00:00-0400
 inline: false
 related_posts: false
