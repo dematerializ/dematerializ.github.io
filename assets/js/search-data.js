@@ -235,12 +235,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our first PureAlloys paper is accepted for publication! :sparkles: 🎉',
           description: "",
-          section: "News",},{id: "news-talk-at-lrt-conference-2026",
-          title: 'Talk at LRT Conference 2026',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/lrt2026-talk/";
-            },},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
+          section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our second PureAlloys paper is accepted for publication! :sparkles:',
           description: "",
           section: "News",},{id: "news-talk-at-dark-matter-uk-dec-39-25-meeting",
@@ -299,6 +294,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lrt2026-poster-presentation/";
+            },},{id: "news-talk-at-lrt-conference-2026",
+          title: 'Talk at LRT Conference 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/lrt2026-talk/";
             },},{id: "projects-purealloys-ultra-radiopure-cu-based-dark-matter-neutrinos-detection",
           title: 'PureAlloys ultra-radiopure Cu-based (Dark Matter / neutrinos detection)',
           description: "funded by UKRI EU Guarantee",
