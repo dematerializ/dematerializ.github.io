@@ -2,10 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.physik.uni-hamburg.de/en/iexp/gruppe-nikolopoulos/personen/spathara-dimitra.html'>Affiliation</a>: Research Group Nikolopoulos,
-Institute of Experimental Physics, University of Hamburg
+subtitle: <a href='https://www.physik.uni-hamburg.de/en/iexp/gruppe-nikolopoulos/personen/spathara-dimitra.html'>Affiliation</a>. Research Group Nikolopoulos, University of Hamburg
 permalink: /
-subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Previous affiliation</a>: School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
+subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Previous affiliation</a>. School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
