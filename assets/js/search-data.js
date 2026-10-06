@@ -294,8 +294,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lrt2026-poster-presentation/";
-            },},{id: "news-talk-at-lrt-conference-2026",
-          title: 'Talk at LRT Conference 2026',
+            },},{id: "news-talk-at-lrt-2026-conference",
+          title: 'Talk at LRT 2026 Conference.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/lrt2026-talk/";
