@@ -235,7 +235,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-first-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our first PureAlloys paper is accepted for publication! :sparkles: 🎉',
           description: "",
-          section: "News",},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
+          section: "News",},{id: "news-talk-at-lrt-2026",
+          title: 'Talk at LRT 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/lrt2026-talk/";
+            },},{id: "news-our-second-purealloys-paper-is-accepted-for-publication-sparkles",
           title: 'Our second PureAlloys paper is accepted for publication! :sparkles:',
           description: "",
           section: "News",},{id: "news-talk-at-dark-matter-uk-dec-39-25-meeting",
