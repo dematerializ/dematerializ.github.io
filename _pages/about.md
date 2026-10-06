@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.ep.ph.bham.ac.uk/DimitraSpathara.html'>Previous affiliation</a>. School of Physics and Astronomy, University of Birmingham. #Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.physik.uni-hamburg.de/en/iexp/gruppe-nikolopoulos/personen/spathara-dimitra.html'>Affiliation</a>. Nikolopoulos Research Group, Institute of Experimental Physics, MIN Faculty, University of Hamburg. #Address. Contacts. Motto. Etc.
 
 profile:
   align: right
