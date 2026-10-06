@@ -291,7 +291,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sustainablehep2026/";
-            },},{id: "news-poster-at-lrt-2026",
+            },},{id: "news-the-purecualloys-project-is-launched",
+          title: 'The PureCuAlloys project is launched! 🎈',
+          description: "",
+          section: "News",},{id: "news-poster-at-lrt-2026",
           title: 'Poster at LRT 2026.',
           description: "",
           section: "News",handler: () => {
