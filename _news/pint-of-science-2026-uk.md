@@ -13,6 +13,6 @@ What stood out to me while writing is how consistent the underlying problem has 
 
 This also reflects my own path in Birmingham: from studying turbine blade processing during my PhD, to developing radiopure copper-based alloys today.
 
-Part 1 - <a href="https://medium.com/@dematerializ/metallurgy-in-birmingham-the-industrial-revolution-and-its-aura-39ce29dacbd3">Metallurgy in Birmingham 1: the Industrial Revolution and its aura</a>
+Part 1 - <a href='https://medium.com/@dematerializ/metallurgy-in-birmingham-the-industrial-revolution-and-its-aura-39ce29dacbd3'>Metallurgy in Birmingham 1: the Industrial Revolution and its aura</a>
 
-Part 2 - <a href="https://medium.com/@dematerializ/metallurgy-in-birmingham-from-power-systems-to-dark-matter-2b5ac67827c3">Metallurgy in Birmingham 2: from power systems to dark matter</a>
+Part 2 - <a href='https://medium.com/@dematerializ/metallurgy-in-birmingham-from-power-systems-to-dark-matter-2b5ac67827c3'>Metallurgy in Birmingham 2: from power systems to dark matter</a>
